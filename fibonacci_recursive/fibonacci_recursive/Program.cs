@@ -14,7 +14,7 @@ namespace fibonacci_iteration
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Fib(6) = " + Fib(6));
+            Console.WriteLine("Fib(8) = " + Fib(8));
         }
     }
 }
